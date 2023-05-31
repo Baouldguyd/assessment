@@ -29,6 +29,7 @@ const getUserData = () =>{
     
     })
 }
+getUserData()
 refresh.addEventListener("click", ()=>{
     getUserData()
 })
